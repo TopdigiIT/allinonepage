@@ -35,6 +35,7 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "netlify-cli": "^18.0.4",
-    "vite": "^6.0.5"
+    "vite": "^6.0.5",
+    "@remix-run/dev": "^1.x.x" 
   }
 }
